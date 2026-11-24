@@ -1,0 +1,1 @@
+My agent can recite my LDL from July, rebuild an APK from a git bundle, and still cannot decide anything without asking me first — a supercomputer with separation anxiety.
